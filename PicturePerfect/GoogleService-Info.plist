@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>950471712854-ff58oiupedfh4ucqpl0gfcihrk3o1mj8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.950471712854-ff58oiupedfh4ucqpl0gfcihrk3o1mj8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDAy2S_ijykAGs0R95FpgWJSvWP4c1uWmc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>950471712854</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.akshay.screenrecorder</string>
+	<key>PROJECT_ID</key>
+	<string>pictureperfect-afe27</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pictureperfect-afe27.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:950471712854:ios:efb10bcf94118b962a9bf7</string>
+</dict>
+</plist>
